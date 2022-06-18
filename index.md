@@ -1,0 +1,5 @@
+- Arrays,
+- Math.floor,
+- Math.random,
+- setAttribute,
+- removeAttribute,
